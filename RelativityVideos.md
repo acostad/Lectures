@@ -1,8 +1,13 @@
-# Lecture Videos of Special Relativity
+# Lectures on Special Relativity
 
-## [Playlist](https://www.youtube.com/playlist?list=PLraSLxeuWaBq4dytL-4qSoeGkLdX2An3A)
+## Lecture slides: 
 
-## Individual listing
+- [Relativity Part 1](RelativityLecturesPart1.pdf)
+- [Relativity Part 2](RelativityLecturesPart2.pdf) 
+
+## [Video Playlist](https://www.youtube.com/playlist?list=PLraSLxeuWaBq4dytL-4qSoeGkLdX2An3A)
+
+## Individual video listing
 
 - [Introduction to Relativity](https://youtu.be/mPv9vct7oWs)
 - [Einstein's postulates, time dilation, and length contraction](https://youtu.be/4WRNgW5BwX8)
