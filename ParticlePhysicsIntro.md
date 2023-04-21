@@ -8,9 +8,9 @@ At the level of an undergraduate Modern Physics course
 - [Feynman diagrams](FeynmanDiagrams.pdf)
 
 
-## [Playlist](https://www.youtube.com/playlist?list=PLraSLxeuWaBonYBREbC8mbv6_mpIOQ50A)
+## [Video Playlist](https://www.youtube.com/playlist?list=PLraSLxeuWaBonYBREbC8mbv6_mpIOQ50A)
 
-## Individual listing
+## Individual video listing
 
 - [Introduction to Particle Physics](https://youtu.be/1zHeiNaKZwg)
 - [Conservation Laws](https://youtu.be/zKDkXSX0VrE)
