@@ -40,4 +40,5 @@ second set at a junior level undergraduate particle physics course
 - [QCD](https://cernbox.cern.ch/s/xGmXIqZYK59BNxV)
 - [Electroweak interactions](https://cernbox.cern.ch/s/8QYy2I7INOx356y)
 - [Higgs boson](https://cernbox.cern.ch/s/gvP2ZlY9vA7RBv6)
+- [Neutrino mixing](https://cernbox.cern.ch/s/zkovqGvMzq2CmlW)
 - [Beyond the Standard Model](https://cernbox.cern.ch/s/dBb3W8hrAxNVYdd)
