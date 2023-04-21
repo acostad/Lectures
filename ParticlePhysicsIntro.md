@@ -2,6 +2,12 @@
 
 At the level of an undergraduate Modern Physics course
 
+## Lecture slides
+- Particle physics introduction
+- Conservation laws, hadron structure, and kinematics
+- Feynman diagrams
+
+
 ## [Playlist](https://www.youtube.com/playlist?list=PLraSLxeuWaBonYBREbC8mbv6_mpIOQ50A)
 
 ## Individual listing
