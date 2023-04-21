@@ -32,3 +32,7 @@
 ## [Video Playlist](https://www.youtube.com/playlist?list=PLraSLxeuWaBoTWrG1endtqCVsiSeKlmJb)
 
 ## Individual video listing
+
+- [Equivalence Principle](https://www.youtube.com/watch?v=CPdZ2NsFOzY&list=PLraSLxeuWaBoTWrG1endtqCVsiSeKlmJb&index=1&pp=gAQBiAQB)
+- [Gravitational Doppler Shift and Time Dilation](https://www.youtube.com/watch?v=vr039UAvEwI&list=PLraSLxeuWaBoTWrG1endtqCVsiSeKlmJb&index=2&t=535s&pp=gAQBiAQB)
+- [Gravitational Waves](https://www.youtube.com/watch?v=lKNVTvb1kFo&list=PLraSLxeuWaBoTWrG1endtqCVsiSeKlmJb&index=3&pp=gAQBiAQB)
