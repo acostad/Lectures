@@ -1,4 +1,6 @@
-# Lecture Videos of Particle Physics
+# Lectures on Particle Physics
+
+At the level of an undergraduate Modern Physics course
 
 ## [Playlist](https://www.youtube.com/playlist?list=PLraSLxeuWaBonYBREbC8mbv6_mpIOQ50A)
 
