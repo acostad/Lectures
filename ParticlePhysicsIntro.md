@@ -21,6 +21,7 @@ second set at a junior level undergraduate particle physics course
 - [Hadron Structure](https://youtu.be/ByxpHGG6zNE)
 - [Particle Interactions and Feynman Diagrams](https://youtu.be/9ceUEKITpzc)
 - [Particle Kinematics](https://youtu.be/SXCwhwBAzr4)
+- [Higgs Boson](https://www.youtube.com/watch?v=0SDUHOklW-0)
 
 ## More in-depth particle physics lecture notes
 - [Relativistic four-vectors and Lorentz transformations](https://cernbox.cern.ch/s/FPgq7CDps5XcEYu)
