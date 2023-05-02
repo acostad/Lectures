@@ -39,6 +39,7 @@ second set at a junior level undergraduate particle physics course
 - [Symmetries and Conservation laws](https://cernbox.cern.ch/s/iYkivwxkChLkr7b)
 - [Quark model](https://cernbox.cern.ch/s/IDb9YD3ipKEu4lh)
 - [Hadron structrure](https://cernbox.cern.ch/s/dTm9KNCkgPav1ND)
+   - [Deep Inelastic Scattering Kinematics](DISKinematics.pdf)
 - [QCD](https://cernbox.cern.ch/s/xGmXIqZYK59BNxV)
 - [Electroweak interactions](https://cernbox.cern.ch/s/8QYy2I7INOx356y)
 - [Higgs boson](https://cernbox.cern.ch/s/gvP2ZlY9vA7RBv6)
