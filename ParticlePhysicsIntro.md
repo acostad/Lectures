@@ -3,7 +3,7 @@
 First set at the level of an undergraduate Modern Physics course, 
 second set at a junior level undergraduate particle physics course
 
-## Modern Physics Lecture slides
+## Modern Physics Course Lecture slides
 - [Particle physics introduction](ParticlePhysicsIntro.pdf)
 - [Conservation laws, hadron structure, and kinematics](ConservationLawsHadronStructureKinematics.pdf)
 - [Feynman diagrams](FeynmanDiagrams.pdf)
@@ -45,3 +45,6 @@ second set at a junior level undergraduate particle physics course
 - [Higgs boson](https://cernbox.cern.ch/s/gvP2ZlY9vA7RBv6)
 - [Neutrino mixing](https://cernbox.cern.ch/s/zkovqGvMzq2CmlW)
 - [Beyond the Standard Model](https://cernbox.cern.ch/s/dBb3W8hrAxNVYdd)
+
+## Other useful notes
+- [Statistics primer](statprimer.pdf)
