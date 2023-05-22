@@ -29,6 +29,7 @@ second set at a junior level undergraduate particle physics course
 - [Quantum wave mechanics review](https://cernbox.cern.ch/s/BEJdk2WW6tOuwLE)
 - [Decays and scattering](https://cernbox.cern.ch/s/Lb9dabSImQ43c0Z)
 - [Matter interactions](https://cernbox.cern.ch/s/jr2tbJojQKCGLvd)
+   - [PDG description on the passage of particles through matter](https://pdg.lbl.gov/2022/reviews/rpp2022-rev-passage-particles-matter.pdf)
 - [Radioactivity and radiation](https://cernbox.cern.ch/s/tvtQYf0CojoqBMA)
 - [Detectors](https://cernbox.cern.ch/s/Tz1VR9CxL7zI9Wm)
 - [Accelerators and Colliders](https://cernbox.cern.ch/s/tOj4e5m35mNyUeQ)
