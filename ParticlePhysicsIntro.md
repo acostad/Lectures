@@ -48,4 +48,5 @@ second set at a junior level undergraduate particle physics course
 - [Beyond the Standard Model](https://cernbox.cern.ch/s/dBb3W8hrAxNVYdd)
 
 ## Other useful notes
+- [Special Relativity lectures](https://github.com/acostad/Lectures/blob/main/RelativityVideos.md)
 - [Statistics primer](statprimer.pdf)
